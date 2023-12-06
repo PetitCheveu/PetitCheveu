@@ -1,16 +1,15 @@
-### Hi there 👋
+# Elena BEYLAT
 
-<!--
-**PetitCheveu/PetitCheveu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I ?
+🎓Alternate student in computer science, working for the LAMIH (Laboratoire Automatique Mécanique Informatique industrielles et Humaines).<br>
+💻 Learning software engineering and project management<br>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petitcheveu&show_icons=true&theme=dracula&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+### Technology Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,c,django,ts,mysql,postgres,docker,figma,discord)](https://skillicons.dev) <br>
+
+### Socials
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-beylat-166333234/)
