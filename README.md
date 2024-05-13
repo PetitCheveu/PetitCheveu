@@ -9,7 +9,7 @@
 ### Projects
 
 ### Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,c,django,ts,mysql,postgres,docker,figma,discord)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ts,java,py,django,c,mysql,postgres,mongodb,docker,figma,discord)](https://skillicons.dev) <br>
 
 ### Socials
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-beylat-166333234/)
