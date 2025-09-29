@@ -1,4 +1,4 @@
-# Elena BEYLAT
+# E.BEYLAT
 
 ### Who am I ?
 🎓Alternate student in computer science, working for the LAMIH (Laboratoire Automatique Mécanique Informatique industrielles et Humaines).<br>
