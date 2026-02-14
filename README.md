@@ -1,15 +1,11 @@
-# E.BEYLAT
+# E.B.
 
 ### Who am I ?
-🎓Alternate student in computer science, working for the LAMIH (Laboratoire Automatique Mécanique Informatique industrielles et Humaines).<br>
-💻 Learning software engineering and project management<br>
+Just a chill guy coding for fun
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petitcheveu&show_icons=true&theme=dracula&hide_border=true)
 
 ### Projects
 
 ### Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,angular,ts,java,py,django,c,mysql,postgres,mongodb,docker,figma,discord)](https://skillicons.dev) <br>
-
-### Socials
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-beylat-166333234/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,angular,ts,flutter,java,py,postgres,mongodb,docker,figma,discord)](https://skillicons.dev) <br>
